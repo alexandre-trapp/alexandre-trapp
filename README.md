@@ -1,8 +1,5 @@
 ### Olá 👋
 
-<!--
-**alexandre-trapp/alexandre-trapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Alexandre Cordeiro Trapp, better known as Trapp, 
 
 I am always looking for new knowledge, technology, challenges and experiences in the area of ​​development, web, projects and systems analysis that add to my career; I always try to provide significant returns on my services, which add to the company's business.
