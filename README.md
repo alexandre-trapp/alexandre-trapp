@@ -16,7 +16,7 @@ Technologies I'm working:
 
 Technologies I'm studying:
 
-AWS, Vue.js, Software Architecture
+AWS, Vue.js, Software Architecture, Domain Driven Design
 
 **Minhas redes**
 <p align="left">
