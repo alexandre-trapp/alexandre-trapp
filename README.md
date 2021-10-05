@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá/Hello 👋
 
 My name is Alexandre Cordeiro Trapp, better known as Trapp, 
 
