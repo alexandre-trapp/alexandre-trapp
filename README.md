@@ -12,11 +12,11 @@ I also like to be on top of subjects about artificial intelligence and data scie
 
 Technologies I'm working:
 
-C#, .Net Core 3.1, .Net 5, Azure, Docker, Kubernetes, Azure Devops
+C#, .Net Core 3.1, .Net 5,6, Azure, AWS, Docker, Kubernetes, Azure Devops
 
 Technologies I'm studying:
 
-AWS, Vue.js, Software Architecture, Domain Driven Design
+AWS, Software Architecture, Domain Driven Design, High Performance .Net Code
 
 **Minhas redes**
 <p align="left">
