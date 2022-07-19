@@ -12,7 +12,7 @@ I also like to be on top of subjects about artificial intelligence and data scie
 
 Technologies I'm working:
 
-C#, .Net Core 3.1, .Net 5,6, Azure, AWS, Docker, Kubernetes, Azure Devops
+C#, .Net Core 3.1, .Net 5,6, Azure, AWS, Docker, Kubernetes, Azure Devops, Datadog, TeamCity CI/CD, Octopus deploy
 
 Technologies I'm studying:
 
